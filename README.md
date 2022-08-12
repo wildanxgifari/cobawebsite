@@ -22,3 +22,7 @@
 
 4. Long-term vision
 - [ ] Multiple maintainer of this (fkmit website) github repo
+
+5. Evaluasi tengah tahun FKMIT
+
+6. Ketua Panitia Pelita 2022
