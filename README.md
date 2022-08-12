@@ -26,3 +26,5 @@
 5. Evaluasi tengah tahun FKMIT
 
 6. Ketua Panitia Pelita 2022
+
+7. Terusin drive fkmit dari P Surya, relinquish email yang baru
